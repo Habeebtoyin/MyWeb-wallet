@@ -16,9 +16,9 @@ const appId = "EO6B8fxfNGXbdL3oJNtaE5HtemlEtWvvqqfRcHMp";
 Moralis.start({ serverUrl, appId });
 
 let homepage =
-  "https://webwallets.netlify.app//index.html";
+  "https://webwallets.netlify.app/index.html";
 let dashboard =
-  "https://webwallets.netlify.app//dashboard.html";
+  "https://webwallets.netlify.app/dashboard.html";
 
 /* NOTE 2
 If you find the application is continually flashing, it's because there is a redirect function
